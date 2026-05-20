@@ -62,8 +62,12 @@ while True:
 s.close()
 ```
 ## OUPUT
+### Server:
 
 <img width="785" height="249" alt="image" src="https://github.com/user-attachments/assets/806f52d8-9720-4c17-bde9-f59c46ad41c1" />
+
+### Client:
+
 <img width="873" height="275" alt="image" src="https://github.com/user-attachments/assets/8b63ede0-2528-413d-be01-e00554e6b6cb" />
 
 
